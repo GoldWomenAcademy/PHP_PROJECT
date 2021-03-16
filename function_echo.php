@@ -5,5 +5,8 @@ Instruction avec simple ou double cote fonctionne
 Avant une apostrophe mettre un anti slash 
 */
 echo 'bonjour j\'aime le php';
+/* Double anti slash pour mettre un mot entre guillets
+un au début du mot ouverture des guillets mot anti slash à la fin du mot et fermeture des guillets*/
+echo 'bonjour \"jaime\" le PHP';
 
 ?>
