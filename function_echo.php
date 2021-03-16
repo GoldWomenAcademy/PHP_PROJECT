@@ -9,4 +9,10 @@ echo 'bonjour j\'aime le php';
 un au début du mot ouverture des guillets mot anti slash à la fin du mot et fermeture des guillets*/
 echo 'bonjour \"jaime\" le PHP';
 
+/* 
+Function print
+*/
+
+print 
+
 ?>
